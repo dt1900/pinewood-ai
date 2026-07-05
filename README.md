@@ -22,7 +22,6 @@ A goldfish-themed car featuring a classic wedge shape wrapped in a procedurally 
   - [img/](./goldfish/livery/img/): Subfolder containing source branding logos (`F1-logo.png`, `BSA` style assets) and the final livery preview image (`image.png`).
 - `/goldfish/stl/`
   - [fishbowl.stl](./goldfish/stl/fishbowl.stl): 3D-printable model of the clear acrylic fishbowl, designed with a bottom peg for modular mounting.
-  - [gold_fish_bead2.stl](./goldfish/stl/gold_fish_bead2.stl) (attributed to [Grey's Goldfish Cracker Bead model on Printables](https://www.printables.com/model/867253-goldfish-cracker-bead)): Tiny goldfish bead model designed to float suspended inside the epoxy-filled fishbowl.
 
 ### 🐹 2. The Hamster Wheel Car ("The Sakura Spinner")
 A Pinewood Derby car featuring a central 3D-printed hamster wheel that spins freely as the car rolls. Decorated in a cherry blossom (Sakura) theme.
